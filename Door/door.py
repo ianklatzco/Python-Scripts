@@ -3,7 +3,7 @@ import time #imports a library with time-wimey counts
 import responses #imports lots of variables that will be concentated
 
 print "This is a simple program reminiscent \
-of Tamriel's various Dark Brotherhood access doors and \
+of Skyrim's various Dark Brotherhood access doors and \
 their respective passwords. Give it a shot!"
 
 #variables are defined here.
@@ -39,7 +39,7 @@ def intro():
 	print
 	print "1. Dawnstar Sanctuary."
 	print "2. Falkreath Sanctuary."
-	print "3. Morrowind Sanctuary. (uncomplete)"
+	print "3. Morrowind Sanctuary. (incomplete)"
 	print
 
 def eval_illusion(): 
